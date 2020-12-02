@@ -1,7 +1,8 @@
-# New Project
+# apple-clone
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+[애플](https://apple.kr) 클론
 
+애플의 여러 사건들을 이용하여 애플 웹페이지를 클론 코딩해보았습니다.
 ## Available Scripts
 
 ### npm start
