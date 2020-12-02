@@ -12,7 +12,7 @@ function App () {
       <Menu />
       <Switch>
         <Route exact path="/" component={Home}/>
-        <Route path="/mac" component={Mac} />
+        <Route exact path="/mac" component={Mac} />
         <Route>
           <NotFound />
         </Route>
