@@ -13,6 +13,8 @@ export default function Home () {
           <Button color="light" style={{ borderRadius: 28, color: 'black', padding: '18px 31px' }}>동영상 보기</Button>
           <Button color="light" style={{ borderRadius: 28, marginLeft: '20px', backgroundColor: 'transparent', color: 'white', padding: '18px 31px' }}>더 알아보기</Button>
         </div>
+        
       </div>
+
   )
 }

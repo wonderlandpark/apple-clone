@@ -14,7 +14,7 @@ export default function Menu () {
         <a href="#">iPhone</a>
         <a href="#">Watch</a>
         <a href="#">TV</a>
-        <a href="#">Music</a>
+        <a href="/music">Music</a>
         <a href="#">Support</a>
         <a href="#" className="search"></a>
         <a href="#" className="bag"></a>

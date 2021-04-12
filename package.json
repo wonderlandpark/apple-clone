@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
     "reactstrap": "^8.7.1"
   },
@@ -38,7 +38,13 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.21.5",
     "prettier": "^2.0.5",
-    "snowpack": "^2.17.1",
+    "snowpack": "^2.18.5",
     "typescript": "^4.0.0"
-  }
+  },
+  "name": "apple-clone-master",
+  "description": "[애플](https://apple.kr) 클론",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "author": "",
+  "license": "ISC"
 }

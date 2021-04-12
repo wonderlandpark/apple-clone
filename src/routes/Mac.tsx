@@ -14,8 +14,8 @@ export default function Mac () {
             <span style={{ color: '#f56300', textAlign: 'left' }}>New</span>
             <h2 style={{ fontWeight: 600, fontSize: 56 }}>MacBook English</h2>
             <p style={{ fontSize: 25, fontWeight: 600 }}>English의 흐름을 바꾸다.</p>
-            <p style={{ fontSize: 17, fontWeight: 400 }}>₩1,290,000부터</p>
-            <p style={{ fontSize: 14, fontWeight: 400, color: '#a1a1a6' }}>출시일은 추후 공개됩니다.</p>
+            <p style={{ fontSize: 17, fontWeight: 400 }}>₩1,290,000,000부터</p>
+            <p style={{ fontSize: 14, fontWeight: 400, color: '#a1a1a6' }}>3141년 5월 9일에 출시합니다.</p>
             <p><Button color="primary" style={{ color: '#fff', background: '#2997ff !Important', fontSize: '15px', fontWeight: 400, borderRadius: 22, padding: '10px 20px' }}>구입하기</Button></p>
           </Col>
         </Row>
@@ -28,7 +28,7 @@ export default function Mac () {
             <span style={{ color: '#f56300', textAlign: 'left' }}>New</span>
             <h2 style={{ fontWeight: 600, fontSize: 56 }}><span style={{ fontSize: 21, fontWeight: 700 }}>13형 모델</span><br/>MacBook Math</h2>
             <p style={{ fontSize: 25, fontWeight: 600 }}>Math중에 수학.</p>
-            <p style={{ fontSize: 17, fontWeight: 400 }}>₩1,690,000부터</p>
+            <p style={{ fontSize: 17, fontWeight: 400 }}>₩1,690,000,000부터</p>
             <p><Button color="primary" style={{ color: '#fff', background: '#2997ff !Important', fontSize: '15px', fontWeight: 400, borderRadius: 22, padding: '10px 20px' }}>구입하기</Button></p>
           </Col>
         </Row>
@@ -38,7 +38,7 @@ export default function Mac () {
             <span style={{ color: '#f56300', textAlign: 'left' }}>New</span>
             <h2 style={{ fontWeight: 600, fontSize: 56 }}>Mac Science</h2>
             <p style={{ fontSize: 25, fontWeight: 600 }}>새로운 원소. 어마무시한 가능성.</p>
-            <p style={{ fontSize: 17, fontWeight: 400 }}>₩890,000부터</p>
+            <p style={{ fontSize: 17, fontWeight: 400 }}>₩890,000,000부터</p>
             <p><Button color="primary" style={{ color: '#fff', background: '#2997ff !Important', fontSize: '14px', fontWeight: 400, borderRadius: 22, padding: '10px 20px' }}>구입하기</Button></p>
           </Col>
           <Col xs="6">
